@@ -1,0 +1,20 @@
+i {
+    font-size: 50px;
+}
+.a {
+    margin-right: 30px;
+}
+.aa {
+    margin-right: 30px;
+}
+.aaa {
+    margin-right: 30px;
+}
+.box {
+    background-color: lightgray;
+    width: 300px;
+    height: 80px;
+    border-radius: 30px;
+    padding: 10px;
+    margin: auto; margin-top: 100px;
+}
